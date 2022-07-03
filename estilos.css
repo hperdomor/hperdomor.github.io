@@ -25,7 +25,7 @@ html {
 header {
     height: 100%;
     overflow: hidden;
-    background: url('images/cpu.jpg') no-repeat top;
+    background: url('cpu.jpg') no-repeat top;
     background-size: cover;
 }
 
